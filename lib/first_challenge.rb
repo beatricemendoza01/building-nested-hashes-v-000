@@ -18,7 +18,8 @@ def first_challenge
      },
      capulet: {
        patriarch: {
-         name: 
+         name: "Lord Capulet",
+         age: "50"
        },
        matriarch: {},
        heroine: {},
